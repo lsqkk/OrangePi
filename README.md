@@ -69,3 +69,5 @@
 ## 说明
 
 本仓库是一个持续更新的活文档。随着更多项目（如更复杂的AI应用、物联网集成、自动化脚本等）的探索，笔记内容将不断扩展。欢迎给个 **Star** 关注更新，也期待你的实践反馈~
+
+![License](https://img.shields.io/github/license/lsqkk/OrangePi)
